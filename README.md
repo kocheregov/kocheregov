@@ -8,7 +8,7 @@
 ### Верифицируемые профили и дипломы
 | Площадка / Достижение | Прямая ссылка на личный профиль / документ | Статус |
 | :--- | :--- | :--- |
-| **BI.ZONE Bug Bounty** | **[bugbounty.bi.zone/profile/kocheregov](https://bugbounty.bi.zone/profile/kocheregov)** | Топ-60 рейтинга, 35+ принятых уязвимостей |
+| **BI.ZONE Bug Bounty** | **[bugbounty.bi.zone/profile/kocheregov](https://bugbounty.bi.zone/profile/kocheregov)** | Топ-30 рейтинга за 2026 год (#28, Топ-60 All-Time), 35+ принятых уязвимостей |
 | **Alfa CTF 2026 (Альфа-Банк)** | **[Открыть именной сертификат (PDF)](./certs/alfa_ctf_2026_shevchenko.pdf)** | **3 место** (команда HillBilly) |
 | **Standoff 365 Bug Bounty** | Никнейм исследователя: **`kocheregov`** ([standoff365.com](https://standoff365.com/)) | Активный исследователь (Cloud / Web / Infra) |
 
