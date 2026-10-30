@@ -2,8 +2,15 @@
 **Senior DevOps / SRE / DevSecOps Engineer & AI Agents Architect**
 
 - **Production-опыт (5+ лет):** Сбербанк (Главный инженер по разработке, DevOps / DevSecOps), САМСОН Групп (SRE, распределенная инфраструктура 170+ серверов), Компас Плюс (FinTech DevOps).
-- **Bug Bounty & Offensive Security:** **Топ-60** рейтинга [BI.ZONE Bug Bounty](https://bugbounty.bi.zone/profile/kocheregov) и активный исследователь на Standoff 365 (35+ принятых отчетов об уязвимостях в Kubernetes, Cloud, DBaaS, IAM; >1.7 млн руб выплат).
+- **Bug Bounty & Offensive Security:** **Топ-60** рейтинга исследователей на BI.ZONE Bug Bounty и Standoff 365 (35+ принятых отчетов об уязвимостях в Kubernetes, Cloud, DBaaS, IAM; >1.7 млн руб выплат).
 - **Соревнования и алгоритмы:** **3 место** на Альфа ЦТФ 2026 (команда HillBilly), полуфиналист чемпионата мира по программированию ICPC (2019-2020), ПМИ ЮУрГУ.
+
+### Верифицируемые профили и дипломы
+| Площадка / Достижение | Прямая ссылка на личный профиль / документ | Статус |
+| :--- | :--- | :--- |
+| **BI.ZONE Bug Bounty** | **[bugbounty.bi.zone/profile/kocheregov](https://bugbounty.bi.zone/profile/kocheregov)** | Топ-60 рейтинга, 35+ принятых уязвимостей |
+| **Alfa CTF 2026 (Альфа-Банк)** | **[Открыть именной сертификат (PDF)](./certs/alfa_ctf_2026_shevchenko.pdf)** | **3 место** (команда HillBilly) |
+| **Standoff 365 Bug Bounty** | Никнейм исследователя: **`kocheregov`** ([standoff365.com](https://standoff365.com/)) | Активный исследователь (Cloud / Web / Infra) |
 
 ---
 
